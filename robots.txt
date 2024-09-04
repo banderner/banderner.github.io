@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://banderner.github.io/sitemap.html.gz
+Sitemap: https://banderner.github.io/app/sitemap.html.gz
+Sitemap: https://banderner.github.io/assets/sitemap.html.gz
+Sitemap: https://banderner.github.io/css/sitemap.html.gz
+Sitemap: https://banderner.github.io/includes/sitemap.html.gz
+Sitemap: https://banderner.github.io/item/sitemap.html.gz
+Sitemap: https://banderner.github.io/src/sitemap.html.gz
